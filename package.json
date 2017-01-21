@@ -1,1 +1,20 @@
-{"name":"dir-copy","author": "tobihrbr","main":"lib/app.js","repository":{"url":"https://github.com/tobihrbr/dir-copy.git","type":"git"},"version":"1.0.0","description":"Copy a directory","keywords":["copy","dir","directory"],"license":"MIT","scripts":{"start":"node lib/app.js"}}
+{
+  "name": "dir-copy",
+  "author": "tobihrbr",
+  "main": "lib/app.js",
+  "repository": {
+    "url": "https://github.com/tobihrbr/dir-copy.git",
+    "type": "git"
+  },
+  "version": "1.0.0",
+  "description": "Copy a directory",
+  "keywords": [
+    "copy",
+    "dir",
+    "directory"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "start": "node lib/app.js"
+  }
+}
